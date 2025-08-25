@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Saurabh  
 
-I’m a passionate **Software Developer** and a final-year **B.Tech CSE student at IIT Delhi**.  
+I’m a passionate **Software Developer** and a final-year **B.Tech CSE student at NIAMT RANCHI**.  
 I love turning ideas into reality through code and building projects that make an impact.  
 My focus is on writing clean, efficient, and scalable solutions while continuously learning and improving.  
 
