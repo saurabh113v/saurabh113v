@@ -40,8 +40,9 @@ My focus is on writing clean, efficient, and scalable solutions while continuous
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saurabh113v&theme=radical&border_radius=5" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saurabh113v&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh113v&theme=react-dark" alt="GitHub Activity Graph"/>
