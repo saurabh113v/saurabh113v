@@ -1,3 +1,8 @@
+<!-- Stylish Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:8E44AD&height=200&section=header&text=Hi%20I'm%20Saurabh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+</p>
+
 # 👋 Hi, I’m Saurabh  
 
 I’m a passionate **Software Developer** and a final-year **B.Tech CSE student at NIAMT RANCHI**.  
@@ -38,7 +43,6 @@ My focus is on writing clean, efficient, and scalable solutions while continuous
   <img src="https://streak-stats.demolab.com?user=saurabh113v&theme=radical&border_radius=5" alt="GitHub Streak"/>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh113v&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
@@ -62,5 +66,10 @@ My focus is on writing clean, efficient, and scalable solutions while continuous
 🌟 GitHub: [saurabh113v](https://github.com/saurabh113v)  
 
 ---
+
+<!-- Stylish Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:FF5733&height=120&section=footer" alt="footer" />
+</p>
 
 ✨ *“Passion fuels progress – I believe in learning, building, and growing every single day.”*
