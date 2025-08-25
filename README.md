@@ -30,20 +30,21 @@ My focus is on writing clean, efficient, and scalable solutions while continuous
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh113v&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh113v&layout=compact&theme=radical" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=saurabh113v&theme=radical&border_radius=5" alt="GitHub Streak"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh113v&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=saurabh113v&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -56,9 +57,9 @@ My focus is on writing clean, efficient, and scalable solutions while continuous
 ---
 
 ## 🌐 Connect with Me  
-📫 Reach me at: **[your email here]**  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🌟 Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
+📫 Reach me at: **Saurabhjaiswar174@gmail.com**  
+💼 LinkedIn: [Saurabh Kumar](https://www.linkedin.com/in/saurabh-kumar-52202223a/)  
+🌟 GitHub: [saurabh113v](https://github.com/saurabh113v)  
 
 ---
 
