@@ -20,25 +20,6 @@ I enjoy building scalable web applications, solving DSA problems, and turning id
 
 ---
 
-## 🧠 DSA & Problem Solving (LeetCode)
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Strings%20%7C%20Trees%20%7C%20Graphs%20%7C%20DP-blue?style=for-the-badge" />
-</p>
-
-<!-- Optional: Enable later if you want LeetCode stats -->
-<!--
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma" />
-</p>
--->
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
