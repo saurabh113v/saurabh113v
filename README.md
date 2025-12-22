@@ -14,16 +14,37 @@ I enjoy building scalable web applications, solving DSA problems, and turning id
 ---
 
 ## 🛠 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh113v&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh113v&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh113v&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh113v&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saurabh113v&theme=radical" />
 </p>
 
 ---
