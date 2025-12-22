@@ -14,26 +14,29 @@ I enjoy building scalable web applications, solving DSA problems, and turning id
 ---
 
 ## 🛠 Tech Stack
-
-### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github&theme=dark&perline=7" />
 </p>
 
-### ⚙️ Backend
+---
+
+## 🧠 DSA & Problem Solving (LeetCode)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
-### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Strings%20%7C%20Trees%20%7C%20Graphs%20%7C%20DP-blue?style=for-the-badge" />
 </p>
 
-### 🧰 Tools & DevOps
+<!-- Optional: Enable later if you want LeetCode stats -->
+<!--
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma" />
 </p>
+-->
 
 ---
 
