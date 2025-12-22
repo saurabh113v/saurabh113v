@@ -14,7 +14,9 @@ I enjoy building scalable web applications, solving DSA problems, and turning id
 ---
 
 ## 🛠 Tech Stack
-**JavaScript · TypeScript · React · Next.js · Node.js · Express · MongoDB · MySQL · Git · GitHub**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github&perline=7" />
+</p>
 
 ---
 
